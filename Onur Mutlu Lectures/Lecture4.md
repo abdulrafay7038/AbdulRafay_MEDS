@@ -1,4 +1,4 @@
-### Summary of Video Content: Sequential Logic Design, Finite State Machines, FPGAs, and Hardware Description Language (Verilog)
+### Summary of Lecture 4: Sequential Logic Design, Finite State Machines, FPGAs, and Hardware Description Language (Verilog)
 
 ---
 
