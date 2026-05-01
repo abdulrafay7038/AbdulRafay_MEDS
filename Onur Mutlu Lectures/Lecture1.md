@@ -125,8 +125,7 @@ module module_name (port_list);
     // functionality description
 
 endmodule
-
----
+```
 
 #### 9. **Motivation for Using HDLs**
 
