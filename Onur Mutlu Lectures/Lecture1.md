@@ -21,18 +21,6 @@ This lecture serves as an introduction to the course on **Digital Design and Com
 
 ---
 
-### Instructor and Teaching Team
-
-- **Professor Onur Mutlu**, with extensive experience at ETH Zurich, Carnegie Mellon University, and Microsoft Research.
-- Co-instructor: **Muhammad Sder**, senior researcher and lecturer.
-- Lab assistants and teaching assistants support the hands-on components.
-- Research areas include:
-  - Computer architecture.
-  - Hardware security.
-  - Bioinformatics.
-  - Machine learning accelerators and memory systems.
-
----
 
 ### Research and Industry Context
 
@@ -46,16 +34,6 @@ This lecture serves as an introduction to the course on **Digital Design and Com
 
 ---
 
-### Course Structure and Logistics
-
-- Combination of lectures, readings, homework, labs, and exams.
-- Labs involve **building and debugging a simple microprocessor using FPGA** and hardware description languages (Verilog).
-- Encouragement to focus on **learning and mastery**, not just grades.
-- Use of resources like past exams, problem-solving sessions, and online materials.
-- Extra credit opportunities available for research-related assignments.
-- Emphasis on **independent and critical thinking**; cautions against over-reliance on AI tools like ChatGPT for assignments without personal understanding.
-
----
 
 ### Core Concepts: Why Study Computer Architecture?
 
