@@ -169,24 +169,6 @@ endmodule
 
 ---
 
-### Keywords
 
-- **Sequential Logic**
-- **Finite State Machine (FSM)**
-- **D Flip-Flop**
-- **Moore Machine**
-- **Mealy Machine**
-- **State Encoding**
-- **FPGA (Field Programmable Gate Array)**
-- **Lookup Table (LUT)**
-- **Hardware Description Language (HDL)**
-- **Verilog**
-- **Timing Constraints**
-- **Combinational Logic**
-- **State Register**
-- **Next State Logic**
-- **Output Logic**
-
----
 
 This summary captures the core concepts, examples, and practical implications discussed in the video transcript without speculation or unsupported information.
