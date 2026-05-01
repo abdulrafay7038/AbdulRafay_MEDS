@@ -206,31 +206,7 @@ This lecture serves as an introduction to the course on **Digital Design and Com
 
 ---
 
-### Key Insights and Takeaways
 
-- **Understanding transistors as switches is fundamental** to understanding how logic gates and digital circuits work.
-- The **CMOS inverter** is the simplest logic gate and serves as a building block for more complex logic.
-- **NAND gates are universal** and extremely important in digital logic design.
-- The trade-off between **general-purpose and special-purpose hardware** is critical for performance and efficiency in computing systems.
-- Today's computing systems are highly **heterogeneous and specialized**, requiring cross-layer design from device level to software.
-- The course will build from **fundamental hardware concepts** to complex microarchitectures and system designs.
-- **Energy efficiency, performance, security, and scalability** are central challenges driving modern computer architecture research.
-- **Hands-on labs using FPGA and Verilog** will reinforce theoretical knowledge through practical design and implementation.
 
----
-
-### Suggested Reading and Next Steps
-
-- Recommended textbooks:
-  - Hennessy and Patterson (classic computer architecture).
-  - Harris and Harris (digital design fundamentals).
-- Next lectures will cover:
-  - **Boolean algebra and combinational logic**.
-  - **Minimization of logic circuits**.
-  - Hardware description languages (Verilog).
-- Students will begin lab work implementing microprocessors on FPGA.
-- Emphasis on continuous learning, critical thinking, and connecting theory with practical applications.
-
----
 
 This summary captures the comprehensive introduction to digital design and computer architecture, emphasizing foundational knowledge, modern computing contexts, and the technical basis of digital logic from transistors upwards.
