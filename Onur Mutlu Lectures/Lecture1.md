@@ -110,27 +110,21 @@
   - Emphasis on design, simulation, debugging, and performance analysis.
 
 ---
-
 #### 8. **Verilog Hardware Description Language (HDL) Basics**
 
 - Verilog modules define hardware blocks with ports (inputs/outputs).
 - Supports multi-bit signals and hierarchical design.
-- Example module syntax:
 
-$$
-\texttt{module module\_name (port\_list);} \\
-\texttt{input [n:0] a, b, c;} \\
-\texttt{output y;} \\
-\texttt{// functionality description} \\
-\texttt{endmodule}
-$$
+**Example module syntax:**
 
-- HDLs allow:
-  - **Specification** of complex hardware behavior.
-  - **Simulation** of functional and timing behavior.
-  - **Synthesis** to map design onto FPGA or ASIC.
+```verilog
+module module_name (port_list);
+    input  [n:0] a, b, c;
+    output y;
 
-- HDLs enable parallelism modeling inherent in hardware, unlike sequential programming languages (e.g., C++).
+    // functionality description
+
+endmodule
 
 ---
 
