@@ -243,14 +243,5 @@ This lecture provides an in-depth exploration of **timing and verification** in 
 
 ---
 
-### Final Remarks
-
-- **Timing and verification are fundamental to reliable digital circuit design.**
-- Designers must understand physical constraints and timing parameters to avoid failures.
-- Verification is a complex, resource-intensive process requiring multiple tools and approaches.
-- Effective timing optimization balances performance, power, and design complexity.
-- The lecture concludes the digital design section, preparing students for deeper study of computer architecture starting with the Von Neumann microarchitecture.
-
----
 
 
