@@ -91,8 +91,4 @@ This lecture focuses on **Hardware Description Languages (HDLs)**, primarily **V
 
 ---
 
-### Conclusion
-
-This lecture provides a comprehensive foundation in **Digital Design with HDLs**, focusing on **Verilog**. It covers module design, coding styles, synthesis, simulation, and sequential logic constructs with emphasis on **structural and behavioral modeling**. The session introduces key hardware concepts like concurrency, timing, and verification, preparing students to write synthesizable and testable HDL code. The importance of **thinking in hardware terms** rather than software programming is strongly emphasized, setting the stage for advanced topics in computer architecture and design verification.
-
 
