@@ -169,7 +169,3 @@ endmodule
 
 ---
 
-
-
-This summary captures the core concepts, examples, and practical implications discussed in the video transcript without speculation or unsupported information.
-
