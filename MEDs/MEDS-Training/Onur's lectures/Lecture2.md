@@ -119,6 +119,3 @@ This lecture provides a comprehensive exploration of digital logic design princi
 
 ---
 
-
-
-This summary captures the major instructional content and key insights from the lecture transcript, providing a detailed, structured overview grounded strictly in the provided source material.
