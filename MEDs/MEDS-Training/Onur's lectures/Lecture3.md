@@ -168,14 +168,4 @@ This lecture covers foundational concepts in digital logic design, focusing on *
 
 ---
 
-### Key Insights and Conclusions
-
-- **PLAs and decoders enable programmable combinational logic**, capable of implementing any Boolean function via sum-of-products form.
-- **Tri-state buffers are essential for bus systems**, enabling multiple components to share communication lines safely.
-- **Simplification of Boolean logic is crucial for efficient design**, balancing gate count, power, and latency.
-- **Sequential logic introduces memory**, essential for building processors and complex digital systems.
-- **Cross-coupled inverters provide the fundamental storage element**, but practical circuits require controlled inputs like RS latches or gated D latches.
-- **D flip-flops are critical for synchronous sequential circuits**, capturing data only at clock edges to ensure stable operation.
-- **Finite state machines model complex sequential behavior**, with synchronous FSMs preferred for practical digital design.
-- **Clock timing and design overhead must be managed carefully**, balancing performance and design complexity.
 
